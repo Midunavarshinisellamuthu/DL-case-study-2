@@ -1,0 +1,11 @@
+api/.venv/
+api/__pycache__/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.py[cod]
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
